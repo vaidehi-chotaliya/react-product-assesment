@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+node_modules/
+build/
+tmp/
+temp/
+/dist
+.scannerwork
+/media
+/coverage
+Dockerfile
+typeOrm.config.ts
+.env*
